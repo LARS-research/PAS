@@ -1,6 +1,6 @@
 # Pooling Architecture Search for Graph Classification
 
-#### This repository is the code for our CIKM 2021 paper: Pooling Architecture Search for Graph Classification
+#### This repository is the code for our CIKM 2021 paper: [Pooling Architecture Search for Graph Classification](https://arxiv.org/pdf/2108.10587.pdf)
 
 #### Overview
 We propose a novel framework PAS to automatically learn data-specific pooling architectures for graph classification
